@@ -18,6 +18,7 @@ import com.model.Employee;
 	@Autowired
 	SessionFactory sf;
 
+	//Adding these comments to check Push and Pull requests
 	
 	// RETRIEVE THE DATA FROM DATABASE
 	@RequestMapping("/sam")	
