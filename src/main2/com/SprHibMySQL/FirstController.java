@@ -17,7 +17,7 @@ import com.model.Employee;
 		
 	@Autowired
 	SessionFactory sf;
-
+	// to check code from Sampath branch to Master
 	//Adding these comments to check Push and Pull requests
 	
 	// RETRIEVE THE DATA FROM DATABASE
