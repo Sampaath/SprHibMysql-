@@ -1,6 +1,3 @@
+#End point URL for PSG service
 
-Do the Same Application using SpringBoot
-
-commiting
-###########
-Why commit is coming everytime
+psgWebServiceEndPointUrl=http://nlg00667.tst.kohls.com:30010/Processes/Business%20Processes/Starter%20Processes/Services/intfretrievePSGRMS13Details-service.serviceagent/PortTypeEndpoint
