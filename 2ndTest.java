@@ -3,7 +3,7 @@ abstract class 2ndTest
 {
 Abstract void show()
 {
-System.out.println("this is 3rd time");
+System.out.println("I am trying this one for the 4th time");
 }
 
 Abstract void display()
