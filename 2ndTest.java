@@ -1,8 +1,8 @@
-Hey we are master branch
-#### OLD URLS##
-<<<<<<< HEAD
-## CHECKING UPDATES###
-mvZ:V
-=======
+abstract class 2ndTest
 
-these are the changes that all the other team mates did, and we need to add these to our code
+{
+Abstract void show()
+{
+System.out.println("Hello");
+}
+}
